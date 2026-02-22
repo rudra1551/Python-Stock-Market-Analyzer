@@ -118,7 +118,7 @@ All deferred to Phase-2.
 
 ---
 
-## Phase-2 Roadmap (Planned)
+# Phase-2 Roadmap (Planned)
 
 - Wilder RSI smoothing
 - RSI-based moving average
